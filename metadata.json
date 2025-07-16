@@ -1,0 +1,5 @@
+{
+  "name": "Vanilla JS E-commerce Store",
+  "description": "A simple e-commerce application built with HTML, CSS, and vanilla JavaScript, featuring product listings, cart management, and role-based access for customers and admins. Designed to be connected to a Java backend.",
+  "requestFramePermissions": []
+}
